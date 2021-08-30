@@ -12,7 +12,7 @@ function Home() {
                     <Product 
                         title='Smart Lâmpada Led Colors' image='https://images-na.ssl-images-amazon.com/images/I/61bWZkW8UsL._AC_UL160_SR160,160_.jpg' 
                         rating={5} 
-                        price='19.99'
+                        price='19.90'
                     /> 
                     <Product 
                         title='Pelicula Novo Kindle 10a Geração' image='https://images-na.ssl-images-amazon.com/images/I/71HoGLqdPYL._AC_UL160_SR160,160_.jpg'
@@ -24,7 +24,7 @@ function Home() {
                     <Product 
                         title='Controle Universal Inteligente Infravermelho' image='https://images-na.ssl-images-amazon.com/images/I/51o7CVg47tL._AC_UL160_SR160,160_.jpg' 
                         rating={5} 
-                        price='119,90'
+                        price='119.90'
                     /> 
                     <Product 
                         title='Teclado Gamer RGB HyperX' image='https://images-na.ssl-images-amazon.com/images/I/61au1sF-vNL._AC_UL160_SR160,160_.jpg'
