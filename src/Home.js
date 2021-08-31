@@ -10,38 +10,44 @@ function Home() {
                 />
                 <div className='home_row'>
                     <Product 
+                        id='01922'
                         title='Smart Lâmpada Led Colors' image='https://images-na.ssl-images-amazon.com/images/I/61bWZkW8UsL._AC_UL160_SR160,160_.jpg' 
                         rating={5} 
-                        price='19.90'
+                        price={19.90}
                     /> 
                     <Product 
+                        id='01923'
                         title='Pelicula Novo Kindle 10a Geração' image='https://images-na.ssl-images-amazon.com/images/I/71HoGLqdPYL._AC_UL160_SR160,160_.jpg'
                         rating={4} 
-                        price='32.00'
+                        price= {32.00}
                     /> 
                 </div>
                 <div className='home_row'>
                     <Product 
+                        id='01924'
                         title='Controle Universal Inteligente Infravermelho' image='https://images-na.ssl-images-amazon.com/images/I/51o7CVg47tL._AC_UL160_SR160,160_.jpg' 
                         rating={5} 
-                        price='119.90'
+                        price= {119.90}
                     /> 
                     <Product 
+                        id='01925'
                         title='Teclado Gamer RGB HyperX' image='https://images-na.ssl-images-amazon.com/images/I/61au1sF-vNL._AC_UL160_SR160,160_.jpg'
                         rating={5} 
-                        price='234.90'
+                        price= {234.90}
                     /> 
                     <Product 
+                        id='01926'
                         title='MousePad Speed FORTREK' image='https://images-na.ssl-images-amazon.com/images/I/31AVfnlYKYL._AC_UL160_SR160,160_.jpg' 
                         rating={5} 
-                        price='24.90'
+                        price= {24.90}
                     /> 
                 </div>
                 <div className='home_row'>
                     <Product 
+                        id='01927'
                         title='Box Sherlock Holmes' image='https://images-na.ssl-images-amazon.com/images/I/714X4gjNs6L._AC_UL160_SR160,160_.jpg' 
                         rating={5} 
-                        price='67.90'
+                        price= {67.90}
                     />   
                 </div>
             </div>
